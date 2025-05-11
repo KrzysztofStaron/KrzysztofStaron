@@ -8,6 +8,7 @@
 - I had some fun with: unity, godot, .net, node.js, python, c, PyTorch, tensorFlow, php, assembly etc. idk, I'm just having fun with exploring new technologies
 
 # Currently I'm building full stack web aplications:
+### List:
 https://krzysztofstaron.vercel.app/
 
 # "Succeses":
