@@ -1,6 +1,9 @@
 # "Experience"
-I've been coding since 2018,
-I had some fun with: unity, godot, .net, node.js, python, c, assembly
+- I've been coding since 2018,
+- I had some fun with: unity, godot, .net, node.js, python, c, assembly
+- 6 years of JavaScript
+- 1 year of React
+
 Currently I'm building **SaaS** with TypeScript
 
 
