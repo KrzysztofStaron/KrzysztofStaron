@@ -1,4 +1,4 @@
-# "Experience"
+# "My programming life"
 - 6 years of JavaScript
 - 1 year of React/Next ( got tired, of manually stiching app state with UI, and it turned out great )
 - 4 years of game dev ( tried building next stardew valley, instead built 300 member community around my studio )
@@ -7,9 +7,10 @@
 - 1 year of arduino ( it's fun to see code interact with the real life, and lowlevel programing is awesome )
 - I had some fun with: unity, godot, .net, node.js, python, c, PyTorch, tensorFlow, php, assembly etc. idk, I'm just having fun with exploring new technologies
 
-# Currently I'm building full stack web aplications:
+# Last year I've spent building consumer webapps chasing MMR:
 ### List: https://krzysztofstaron.vercel.app/
 
+# Now I'm trying to master ML
 
 # "Succeses":
 - I have a soul
