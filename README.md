@@ -1,5 +1,5 @@
 # "My programming life"
-- 6 years of JavaScript
+- 7 years of JavaScript
 - 1 year of React/Next ( got tired, of manually stiching app state with UI, and it turned out great )
 - 4 years of game dev ( tried building next stardew valley, instead built 300 member community around my studio )
 - 4 years of Python ( nice to setup quick shit )
