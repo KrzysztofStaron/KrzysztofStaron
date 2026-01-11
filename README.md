@@ -1,16 +1,15 @@
-# "My programming life"
-- 7 years of JavaScript
-- 1 year of React/Next ( got tired, of manually stiching app state with UI, and it turned out great )
-- 4 years of game dev ( tried building next stardew valley, instead built 300 member community around my studio )
-- 4 years of Python ( nice to setup quick shit )
-- 1 year of building discord bots ( it's nice for building pipelines when working in a team )
-- 1 year of arduino ( it's fun to see code interact with the real life, and lowlevel programing is awesome )
-- I had some fun with: unity, godot, .net, node.js, python, c, PyTorch, tensorFlow, php, assembly etc. idk, I'm just having fun with exploring new technologies
+# My programming life:
+- Used to make websites with vanilla js ( started 7 years ago )
+- Got tired, of manually stiching app state with UI and moved to React/Next
+- Tried building next stardew valley, instead built 300 member community and game-dev studio
+- Used to make discrod bots for servers, ppl used to invite me to servers and beg me to setup my bot for them
+- Used to build with Arduino ( it's fun to see code interact with the real life, and lowlevel programing is awesome )
+- I had some fun with: unity, godot, .net, node.js, python, c, PyTorch, tensorFlow, assembly etc. I'm just having fun with exploring new technologies
 
-# Last year I've spent building consumer webapps chasing MMR:
-### List: https://krzysztofstaron.vercel.app/
-
-# Now I'm trying to master ML
+# Last year I've spent building consumer webapps chasing MMR
+# Then I sent my time mastering ML
+# Re-built SoTa paper
+# And now I'm back to building new AI apps
 
 # "Succeses":
 - I have a soul
