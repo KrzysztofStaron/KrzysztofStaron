@@ -2,7 +2,7 @@
 Used to make websites with JS, tried building games and hardware, then jumped on the ML train, and now I'm making AI webapps.
 
 # My programming life:
-- Used to make websites with vanilla js ( started 7 years ago )
+- Used to make websites with vanilla js ( started 7-8 years ago )
 - Got tired, of manually stiching app state with UI and moved to React/Next
 - Tried building next stardew valley, instead built 300 member community and game-dev studio.
 - Used to make discrod bots for servers, ppl used to invite me to servers and beg me to setup my bot for them
