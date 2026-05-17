@@ -1,5 +1,4 @@
-# TLDR: 
-Used to make websites with JS, tried building games and hardware, then jumped on the ML train, and now I'm making AI webapps.
+Used to make websites with JS, tried building games and hardware, then jumped on the ML train, and now I'm making AI webapps and training my own models.
 
 # My programming life:
 - Used to make websites with vanilla js ( started 7-8 years ago )
