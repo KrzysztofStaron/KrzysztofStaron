@@ -6,9 +6,9 @@ Now I train LLMs, write Rust, and ship AI products.
 
 
 **Something I built:**
-- **PromptCoT** — Two LoRA Qwen-7B models in an EM loop generating synthetic reasoning data
-- **graph-llm** — LLM chat through a branching graph instead of a linear window
-- **AI companion** — Elon Musk inspired 3D humanoid, reacting to user's messages
+- **[PromptCoT](https://github.com/KrzysztofStaron/PromptCoT-implementation)** — Two LoRA Qwen-7B models in an EM loop generating synthetic reasoning data
+- **[graph-llm](https://github.com/KrzysztofStaron/graph-llm)** — LLM chat through a branching graph instead of a linear window
+- **[AI companion](https://github.com/KrzysztofStaron/companions)** — Elon Musk inspired 3D humanoid, reacting to user's messages
 
 TypeScript · Python · Rust · Kubernetes · LoRA fine-tuning
 
